@@ -19,7 +19,7 @@ V9采用OOP(面向对象)方式自主开发的框架。框架易扩展，稳定�
 | ------------- | ----------------------------------- |
 | Web Server    | Apache、IIS、Nginx或其他 Web Server |
 | PHP Version   | PHP 5以上版本(7.0及以下)            |
-| MYSQL Version | MySql 4.1以上版本                   |
+| MYSQL Version | MySQL 5.6(最佳版本) |
 
 **相关扩展功能**
 
